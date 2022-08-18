@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+
+<h2><p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+</p>
+ <br/></h2>
+ 
+ 
 <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
 <h3 align="center">I dream to get recognized globally by something that I can do for my society.</h3>
 <img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/>
