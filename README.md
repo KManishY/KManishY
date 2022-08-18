@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+
 
 <h2><p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
