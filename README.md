@@ -44,9 +44,10 @@
 
 
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kmanishy&" alt="kmanishy" /></p>
- 
+## By the way here are some of my statistics 🚀
+![KManishY github stats](https://github-readme-stats.vercel.app/api?username=kmanishy&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmanishy&theme=tokyonight" alt="mystreak"/>
+![KManishY Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmanishy&theme=tokyonight&layout=compact)
 
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmanishy&show_icons=true&locale=en" alt="kmanishy" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmanishy&show_icons=true&locale=en&layout=compact" alt="kmanishy" /></p>
+
