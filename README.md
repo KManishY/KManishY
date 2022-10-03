@@ -15,8 +15,9 @@
 
 
 <a href="https://manish-portfolio.vercel.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="vivekgoswami-portfolio.netlify.com/" />
-
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://medium.com/@my1000088/" />
+<a href="https://medium.com/@my1000088/">
+        <img align="center" src="https://img.shields.io/badge/Medium-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://medium.com/@my1000088/" />
 
 
 
