@@ -92,8 +92,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kmanishy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmanishy&theme=tokyonight" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmanishy&theme=tokyonight&layout=compact" alt="Top Languages" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmanishy&theme=tokyonight" alt="GitHub Streak Stats" /> -->
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kmanishy&theme=tokyonight&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=378&card_height=170" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmanishy&theme=tokyonight&layout=compact" alt="Top Languages" /> 
 </p>
 
 ## 🌐 **LET'S CONNECT**
